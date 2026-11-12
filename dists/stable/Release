@@ -1,0 +1,8 @@
+Origin: Collabs Software
+Label: Anubis AI Agent APT Repository
+Suite: stable
+Codename: stable
+Version: 1.3
+Architectures: amd64 arm64
+Components: main
+Description: Official APT Repository for Anubis AI Agent and Local LLM Engine

@@ -1,0 +1,19 @@
+Package: anubis
+Version: 1.3.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Provides: ai-agent, llm-agent
+Maintainer: Dave Groennesby <collabs@groennesby.ai>
+Homepage: https://github.com/Groennesby/Anubis-Agent
+Filename: pool/main/a/anubis/anubis_1.3.0_amd64.deb
+Size: 19308384
+MD5sum: 27d190dd874c69d9a5b32b6202b65071
+SHA1: 2111556489c7dd707cc373d0bea1b84553f526eb
+SHA256: d1551de26a494ac8e2f8359f6e1e006d603a0cd9b3c39cca301417d2b404fdee
+Description: Anubis AI Agent and Local LLM Sovereign Engine (GUI + CLI)
+ Anubis Agent is a sovereign AI Agent and local LLM orchestrator written in Go
+ featuring Startup Brain (ANUBIS_BRAIN.md), Holographic Bicameral .synapse memory,
+ Weighing of the Heart security judgement, Tomb Seal sandbox, REA v6.8.0 reverse
+ engineering, and Kali Linux OPSEC ChainKeys shield. Run 'anubis'.
+
